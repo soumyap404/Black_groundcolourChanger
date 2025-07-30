@@ -1,0 +1,58 @@
+html{
+margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body {
+ transition: background-color 0.5s ease;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:70vh;
+    margin: 0;
+
+}
+
+span{
+    display: block;
+}
+.canvas{
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+}
+
+.button{
+    width: 100px;
+    height: 100px;
+    border: solid black 1px;
+    display: inline-block;
+    border-radius: 15%;
+    cursor: pointer;
+    margin: 10px;
+    box-shadow:  15px 0.001px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+
+}
+.button:hover {
+    transform: scale(1.1) rotate(2deg);
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.4);
+}
+
+
+#red{
+    background: red;
+}
+#green{
+    background: rgb(14, 220, 96);
+}
+#blue{
+    background: blue;
+}
+#yellow{
+    background: yellow;
+}
