@@ -10,9 +10,9 @@ This interactive web page allows users to change the background color of the ent
 
 🧠 Learning Objectives
 This project is perfect for beginners who want to learn:
-- How to use querySelectorAll and addEventListener in JavaScript
-- How to manipulate the DOM dynamically
-- How to apply CSS transitions and hover animations
-- How to structure HTML and CSS for interactive UI components
+-  use querySelectorAll and addEventListener in JavaScript
+-  manipulate the DOM dynamically
+-  apply CSS transitions and hover animations
+-  structure HTML and CSS for interactive UI components
 
-Would you like me to help you turn this into a mini portfolio project or add more advanced features like a color picker or reset button?
+
